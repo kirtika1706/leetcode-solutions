@@ -14,10 +14,12 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/kirtika1706/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Math
 |  |
 | ------- |
