@@ -16,6 +16,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | ------- |
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/kirtika1706/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -25,6 +26,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/kirtika1706/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/kirtika1706/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
