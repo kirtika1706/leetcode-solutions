@@ -53,12 +53,14 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/kirtika1706/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kirtika1706/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kirtika1706/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/kirtika1706/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kirtika1706/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,4 +77,8 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kirtika1706/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kirtika1706/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
