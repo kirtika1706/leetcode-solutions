@@ -63,6 +63,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/kirtika1706/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kirtika1706/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
