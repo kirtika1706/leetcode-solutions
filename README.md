@@ -7,6 +7,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/kirtika1706/leetcode-solutions/tree/master/0136-single-number) |
 | [1200-minimum-absolute-difference](https://github.com/kirtika1706/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1732-find-the-highest-altitude](https://github.com/kirtika1706/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kirtika1706/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -115,4 +116,8 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kirtika1706/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kirtika1706/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
