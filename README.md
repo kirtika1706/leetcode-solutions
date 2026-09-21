@@ -33,6 +33,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kirtika1706/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1840-maximum-building-height](https://github.com/kirtika1706/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kirtika1706/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
@@ -64,6 +65,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kirtika1706/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/kirtika1706/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kirtika1706/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -130,4 +132,8 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/kirtika1706/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
