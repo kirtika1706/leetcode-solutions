@@ -34,6 +34,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kirtika1706/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/kirtika1706/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1840-maximum-building-height](https://github.com/kirtika1706/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kirtika1706/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
