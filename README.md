@@ -14,6 +14,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | [1833-maximum-ice-cream-bars](https://github.com/kirtika1706/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kirtika1706/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kirtika1706/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/kirtika1706/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kirtika1706/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kirtika1706/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kirtika1706/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -61,6 +62,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | [0141-linked-list-cycle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [1189-maximum-number-of-balloons](https://github.com/kirtika1706/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kirtika1706/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/kirtika1706/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kirtika1706/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
