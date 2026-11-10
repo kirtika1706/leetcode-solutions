@@ -6,6 +6,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/kirtika1706/leetcode-solutions/tree/master/0136-single-number) |
 | [1200-minimum-absolute-difference](https://github.com/kirtika1706/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -141,6 +142,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Simulation
 |  |
