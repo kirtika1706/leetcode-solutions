@@ -14,6 +14,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | [1833-maximum-ice-cream-bars](https://github.com/kirtika1706/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kirtika1706/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kirtika1706/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1920-build-array-from-permutation](https://github.com/kirtika1706/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kirtika1706/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kirtika1706/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kirtika1706/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -139,4 +140,5 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kirtika1706/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/kirtika1706/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
