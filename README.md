@@ -9,6 +9,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/kirtika1706/leetcode-solutions/tree/master/0136-single-number) |
 | [1200-minimum-absolute-difference](https://github.com/kirtika1706/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kirtika1706/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kirtika1706/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kirtika1706/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kirtika1706/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -40,6 +41,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | ------- |
 | [0412-fizz-buzz](https://github.com/kirtika1706/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/kirtika1706/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kirtika1706/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1840-maximum-building-height](https://github.com/kirtika1706/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kirtika1706/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
