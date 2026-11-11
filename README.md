@@ -11,6 +11,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | [0066-plus-one](https://github.com/kirtika1706/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/kirtika1706/leetcode-solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/kirtika1706/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/kirtika1706/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kirtika1706/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kirtika1706/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -51,6 +52,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kirtika1706/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/kirtika1706/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/kirtika1706/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kirtika1706/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -71,6 +73,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | ------- |
 | [0001-two-sum](https://github.com/kirtika1706/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/kirtika1706/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/kirtika1706/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kirtika1706/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kirtika1706/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
