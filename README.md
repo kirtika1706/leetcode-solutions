@@ -8,6 +8,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | ------- |
 | [0001-two-sum](https://github.com/kirtika1706/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/kirtika1706/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kirtika1706/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirtika1706/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kirtika1706/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirtika1706/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -92,6 +94,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kirtika1706/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
