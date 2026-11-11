@@ -6,6 +6,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kirtika1706/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/kirtika1706/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -68,6 +69,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kirtika1706/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [1189-maximum-number-of-balloons](https://github.com/kirtika1706/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kirtika1706/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
