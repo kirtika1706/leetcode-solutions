@@ -10,6 +10,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | [0027-remove-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/kirtika1706/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kirtika1706/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kirtika1706/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/kirtika1706/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kirtika1706/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kirtika1706/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kirtika1706/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
