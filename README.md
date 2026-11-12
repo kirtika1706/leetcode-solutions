@@ -7,6 +7,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kirtika1706/leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kirtika1706/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/kirtika1706/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kirtika1706/leetcode-solutions/tree/master/0066-plus-one) |
@@ -155,6 +156,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kirtika1706/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/kirtika1706/leetcode-solutions/tree/master/0283-move-zeroes) |
