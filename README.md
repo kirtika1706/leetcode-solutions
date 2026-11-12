@@ -16,6 +16,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | [0136-single-number](https://github.com/kirtika1706/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kirtika1706/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kirtika1706/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/kirtika1706/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kirtika1706/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1200-minimum-absolute-difference](https://github.com/kirtika1706/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kirtika1706/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -43,6 +44,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kirtika1706/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/kirtika1706/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/kirtika1706/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
