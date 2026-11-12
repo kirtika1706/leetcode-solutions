@@ -14,6 +14,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirtika1706/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kirtika1706/leetcode-solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/kirtika1706/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kirtika1706/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kirtika1706/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1200-minimum-absolute-difference](https://github.com/kirtika1706/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -50,6 +51,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kirtika1706/leetcode-solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/kirtika1706/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/kirtika1706/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/kirtika1706/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kirtika1706/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -159,6 +161,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kirtika1706/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/kirtika1706/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kirtika1706/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Simulation
 |  |
