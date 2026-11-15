@@ -16,6 +16,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | [0118-pascals-triangle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirtika1706/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kirtika1706/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kirtika1706/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kirtika1706/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kirtika1706/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -65,6 +66,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kirtika1706/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kirtika1706/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/kirtika1706/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/kirtika1706/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -78,6 +80,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/kirtika1706/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/kirtika1706/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -86,6 +89,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 | ------- |
 | [0001-two-sum](https://github.com/kirtika1706/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kirtika1706/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kirtika1706/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/kirtika1706/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kirtika1706/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -103,6 +107,7 @@ My LeetCode solutions in Java for DSA interview preparation.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kirtika1706/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kirtika1706/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -175,4 +180,8 @@ My LeetCode solutions in Java for DSA interview preparation.
 | ------- |
 | [0412-fizz-buzz](https://github.com/kirtika1706/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/kirtika1706/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kirtika1706/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
